@@ -1,6 +1,6 @@
 ### Hi, i'm Alex 👋
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aemendes&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aemendes&repo=chat-app-react)
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=aemendes)
 
