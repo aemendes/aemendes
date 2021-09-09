@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, i'm Alex 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemendes&show_icons=true&theme=dracula)
 
