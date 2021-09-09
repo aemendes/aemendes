@@ -1,9 +1,8 @@
 ### Hi, i'm Alex 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aemendes)](https://github.com/aemendes/github-readme-stats)
+[![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=aemendes)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemendes)](https://github.com/aemendes/github-readme-stats)
-
+[![Alexandre Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemendes)
 
 
 <!--
