@@ -1,56 +1,20 @@
-# Resume
+# Forecasting Bitcoin Trend Using Sentiment Extraction From Twitter
 
-> I'm a software engineer based in Portugal 🌊 with 2 years of experience in the software industry.
-> 
+<aside>
+💡 **Make this your homepage for planning and writing a thesis or dissertation.**
+→ Keep all your notes, sources, drafts and due dates in one place.
+→ Link your notes to drafts where you are using them.
+→ Draft all your writing directly inside pages in your timeline to stay on track.
 
-# ☎️ Contact information
+</aside>
 
-📧 Email address
+[Topics](https://www.notion.so/1291984c36bc45bca8c66344e38aabfd)
 
-🐦 Twitter
+[Sources & Notes](https://www.notion.so/09b95f4ce9e54775aa4db3f94638032a)
 
-🔗 LinkedIn
+[⏰ TIMELINE](https://www.notion.so/ac516b353d7d4352a19f48f8ebdaa687)
 
----
+<aside>
+💡 **Notion Tip:** The timeline above comes with several views built in. Click `All Dates` at the top left to view these milestones plotted on a calendar, or to only view drafts.
 
-# **👩🏻‍💻** Work experience
-
-## Title
-
-Blip.pt*, Porto, Portugal – (2019-2022)*
-
-Your description here
-
----
-
-# 🛠 Skills
-
-## 💻 Technology
-
-### Javascript ⭐️⭐️⭐️⭐️
-
-My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
-
----
-
-## 🗣 Languages
-
-### English
-
-Native speaker
-
----
-
-# 📜 Articles and Talks
-
-- [Dancing with OAuth: a step by step guide](https://dev.to/anabella/dancing-with-oauth-emp)
-
----
-
-# 📚 Education
-
-## **Bachelor's Degree in Computer Science**
-
-*2016-2019*
-
-ORT - Buenos Aires
+</aside>
