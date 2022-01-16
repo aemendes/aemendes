@@ -1,25 +1,56 @@
-### Hi, i'm Alex 👋
+# Resume
 
-<!-- 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aemendes&repo=chat-app-react)
--->
+> I'm a software engineer based in Portugal 🌊 with 2 years of experience in the software industry.
+> 
 
-![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=aemendes)
+# ☎️ Contact information
 
-![Alexandre Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemendes)
+📧 Email address
 
+🐦 Twitter
 
-<!--
-**aemendes/aemendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 LinkedIn
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: github@aemendes.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# **👩🏻‍💻** Work experience
+
+## Title
+
+Blip.pt*, Porto, Portugal – (2019-2022)*
+
+Your description here
+
+---
+
+# 🛠 Skills
+
+## 💻 Technology
+
+### Javascript ⭐️⭐️⭐️⭐️
+
+My "native" programming language, I've worked with it for over 6 years. I've used it in the front-end with React and Redux, in the back-end for APIs with Node, Express and Hapi.js and for testing automation using Mocha and later on, Jest.
+
+---
+
+## 🗣 Languages
+
+### English
+
+Native speaker
+
+---
+
+# 📜 Articles and Talks
+
+- [Dancing with OAuth: a step by step guide](https://dev.to/anabella/dancing-with-oauth-emp)
+
+---
+
+# 📚 Education
+
+## **Bachelor's Degree in Computer Science**
+
+*2016-2019*
+
+ORT - Buenos Aires
