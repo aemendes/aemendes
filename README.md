@@ -1,20 +1,31 @@
-# Forecasting Bitcoin Trend Using Sentiment Extraction From Twitter
+# Quick Note
 
-<aside>
-💡 **Make this your homepage for planning and writing a thesis or dissertation.**
-→ Keep all your notes, sources, drafts and due dates in one place.
-→ Link your notes to drafts where you are using them.
-→ Draft all your writing directly inside pages in your timeline to stay on track.
+Quickly create a rich document.
 
-</aside>
+# Jot down some text
 
-[Topics](https://www.notion.so/1291984c36bc45bca8c66344e38aabfd)
+---
 
-[Sources & Notes](https://www.notion.so/09b95f4ce9e54775aa4db3f94638032a)
+They found Mary, as usual, deep in the study of thorough-bass and human nature; and had some extracts to admire, and some new observations of threadbare morality to listen to. Catherine and Lydia had information for them of a different sort.
 
-[⏰ TIMELINE](https://www.notion.so/ac516b353d7d4352a19f48f8ebdaa687)
+# Make a to-do list
 
-<aside>
-💡 **Notion Tip:** The timeline above comes with several views built in. Click `All Dates` at the top left to view these milestones plotted on a calendar, or to only view drafts.
+---
 
-</aside>
+- [ ]  Wake up
+- [ ]  Eat breakfast
+- [x]  Brush teeth
+
+# Create sub-pages
+
+---
+
+[Sub Page](https://www.notion.so/Sub-Page-1c0d1a9f416c498c845a40e4169c83dc)
+
+# Embed links
+
+---
+
+[Beyond Frank Lloyd Wright: A Broader View of Art in Chicago](https://www.nytimes.com/2018/03/08/arts/chicago-museums-art.html?rref=collection%2Fsectioncollection%2Ftravel)
+
+[Havana's Symphony of Sound](https://www.nytimes.com/2018/03/12/travel/havana-cuba.html?rref=collection%2Fsectioncollection%2Ftravel)
