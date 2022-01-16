@@ -1,31 +1,19 @@
-# Quick Note
+# Personal Home
 
-Quickly create a rich document.
+Organize everything in your life in one place.
 
-# Jot down some text
-
----
-
-They found Mary, as usual, deep in the study of thorough-bass and human nature; and had some extracts to admire, and some new observations of threadbare morality to listen to. Catherine and Lydia had information for them of a different sort.
-
-# Make a to-do list
+## Daily
 
 ---
 
-- [ ]  Wake up
-- [ ]  Eat breakfast
-- [x]  Brush teeth
+[Movie List](https://www.notion.so/Movie-List-46d1799934e34a6bad04d3c05abfa1e2)
 
-# Create sub-pages
+[Recipes](https://www.notion.so/ed1f10f152e6465a878e8fc25da2510b)
 
----
-
-[Sub Page](https://www.notion.so/Sub-Page-1c0d1a9f416c498c845a40e4169c83dc)
-
-# Embed links
+## Life
 
 ---
 
-[Beyond Frank Lloyd Wright: A Broader View of Art in Chicago](https://www.nytimes.com/2018/03/08/arts/chicago-museums-art.html?rref=collection%2Fsectioncollection%2Ftravel)
+[Yearly Goals](https://www.notion.so/Yearly-Goals-956d320299f1477ab17a96723472526e)
 
-[Havana's Symphony of Sound](https://www.nytimes.com/2018/03/12/travel/havana-cuba.html?rref=collection%2Fsectioncollection%2Ftravel)
+[Travel Plans](https://www.notion.so/937110910d7a4e028491a88f938fc9d5)
