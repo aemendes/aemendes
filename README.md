@@ -1,19 +1,15 @@
-# Personal Home
+# **Hi there, I'm Alexandre** 👋
 
-Organize everything in your life in one place.
+An Associate Backend Developer at [**Blip.pt**](https://blip.pt) in [**Porto, Portugal**](https://goo.gl/maps/2hfYfji5nacQiHb76). Currently helping the company grow in the betting industry. 
 
-## Daily
+I've spent the past 2+ years working across different areas of frontend development to my current role as a backend developer.
 
----
+Currently finished my Master's in Artificial Intelligence at ISEP and highlighting my thesis, where i developed a machine learning model to forecast Bitcoin's trend using sentiment analysis on tweets.
 
-[Movie List](https://www.notion.so/Movie-List-46d1799934e34a6bad04d3c05abfa1e2)
+## Working with
 
-[Recipes](https://www.notion.so/ed1f10f152e6465a878e8fc25da2510b)
-
-## Life
-
----
-
-[Yearly Goals](https://www.notion.so/Yearly-Goals-956d320299f1477ab17a96723472526e)
-
-[Travel Plans](https://www.notion.so/937110910d7a4e028491a88f938fc9d5)
+- Java
+- Spring Boot
+- Apache Flink
+- Apache Kafka - RabbitMQ
+- gRPC
