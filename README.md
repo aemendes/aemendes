@@ -11,5 +11,5 @@ Currently finished my Master's in Artificial Intelligence at ISEP and highlighti
 - Java
 - Spring Boot
 - Apache Flink
-- Apache Kafka - RabbitMQ
+- Apache Kafka
 - gRPC
