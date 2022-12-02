@@ -1,10 +1,10 @@
 # **Hi there, I'm Alexandre** 👋
 
-An Associate Backend Developer at [**Blip.pt**](https://blip.pt) in [**Porto, Portugal**](https://goo.gl/maps/2hfYfji5nacQiHb76). Currently helping the company grow in the betting industry. 
+A Backend Developer at [**Blip.pt**](https://blip.pt) in [**Porto, Portugal**](https://goo.gl/maps/2hfYfji5nacQiHb76). Currently helping the company grow in the betting industry. 
 
-I've spent the past 2+ years working across different areas of frontend development to my current role as a backend developer.
+I've spent the past 3+ years working across different areas of frontend development to my current role as a backend developer.
 
-Currently finished my Master's in Artificial Intelligence at ISEP and highlighting my thesis, where i developed a machine learning model to forecast Bitcoin's trend using sentiment analysis on tweets.
+Recently finished my Master's in Artificial Intelligence at ISEP and highlighting my thesis, where i developed a machine learning model to forecast Bitcoin's trend using sentiment analysis on tweets.
 
 ## Working with
 
@@ -13,3 +13,4 @@ Currently finished my Master's in Artificial Intelligence at ISEP and highlighti
 - Apache Flink
 - Apache Kafka
 - gRPC
+- Protobuf 
