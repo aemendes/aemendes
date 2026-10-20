@@ -32,6 +32,9 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
 
+          plugin_isocalendar: true
+          plugin_isocalendar_duration: full-year
+
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           committer_branch: main
           committer_message: "📈 Update GitHub metrics [skip ci]"

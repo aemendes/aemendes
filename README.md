@@ -1,50 +1,93 @@
-<h1 align="center">Hi, I'm Alexandre Mendes! 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aemendes_visitor_badge&left_color=royalblue&right_color=black" />
+<div align="center">
 
-<p align="center">
-  <b>Software Developer</b> · Porto, Portugal 🇵🇹 · Backend, Distributed Systems &amp; Platform Engineering
-</p>
+<img src="assets/header.svg" alt="Alexandre Mendes — Backend · Distributed Systems · Platform" width="100%" />
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<a href="https://github.com/aemendes">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%3E+streaming+millions+of+events+through+Kafka+%2B+Flink;%3E+turning+cloud+APIs+into+Kubernetes+resources;%3E+reading+the+blockchain+so+you+don't+have+to;%3E+deploying+to+prod+on+a+friday%3F+...only+with+GitOps" alt="Typing intro" />
+</a>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,go,rust,ts,nodejs,bun,nextjs,react,postgres,docker,kubernetes,ansible,cloudflare,solidity,py,linux,git" alt="Skills and tools"/>
-  </a>
-</p>
+<br/>
+
+<a href="https://aemendes.com/"><img src="https://img.shields.io/badge/aemendes.com-0b0820?style=for-the-badge&logo=googlechrome&logoColor=00f0ff" alt="Website" /></a>
+<a href="https://twitter.com/Alexand76952838"><img src="https://img.shields.io/badge/@Alexand76952838-0b0820?style=for-the-badge&logo=x&logoColor=ff2bd6" alt="X" /></a>
+<img src="https://komarev.com/ghpvc/?username=aemendes&label=SIGNALS%20RECEIVED&color=a855f7&style=for-the-badge" alt="Profile views" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/terminal.svg" alt="kubectl get engineer alexandre -o yaml" width="90%" />
+</div>
+
+<br/>
+
+<h3 align="center"><code>// LOADOUT</code></h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="right"><code>⚡ STREAMING</code></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,kafka,redis&perline=8" alt="Streaming" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>☸ PLATFORM</code></td>
+    <td><img src="https://skillicons.dev/icons?i=go,kubernetes,docker,ansible,githubactions,cloudflare,grafana,linux&perline=8" alt="Platform" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>◈ WEB</code></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,nodejs,bun,nextjs,react,postgres&perline=8" alt="Web" /></td>
+  </tr>
+  <tr>
+    <td align="right"><code>⛓ ON-CHAIN · AI</code></td>
+    <td><img src="https://skillicons.dev/icons?i=rust,solidity,py,tensorflow&perline=8" alt="On-chain and AI" /></td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<h3 align="center"><code>// ACTIVE MODULES</code></h3>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aemendes/crossplane-provider-cloudflare"><b>🛰️ crossplane-provider-cloudflare</b></a><br/>
+      <sub>Native Go Crossplane providers for Cloudflare Zero Trust: tunnels, DNS, access apps &amp; policies.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aemendes/crossplane-provider-neon"><b>🐘 crossplane-provider-neon</b></a><br/>
+      <sub>Serverless Postgres as Kubernetes resources: Neon projects, databases and roles.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aemendes/forecasting_bitcoin_trend_using_twitter_sentiment"><b>📈 forecasting-bitcoin-trend</b></a><br/>
+      <sub>My MSc thesis: predicting Bitcoin's trend from the sentiment of tweets.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/aemendes/coinpayments-springboot"><b>💳 coinpayments-springboot</b></a><br/>
+      <sub>Crypto payment gateway integration with Spring Boot.</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br/>
+
+<h3 align="center"><code>// TELEMETRY</code></h3>
+
+<div align="center">
+  <img src="github-metrics.svg" alt="GitHub metrics" />
+</div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aemendes/aemendes/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aemendes/aemendes/output/github-snake.svg" />
-  <img alt="GitHub contributions snake" src="https://raw.githubusercontent.com/aemendes/aemendes/output/github-snake-dark.svg" />
+  <img alt="Neon contribution snake" src="https://raw.githubusercontent.com/aemendes/aemendes/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-<div>
-  <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="github-metrics.svg" />
-
-  <h3>🌐 Let's Connect!</h3>
-  <p>
-    <a href="https://aemendes.com/" target="_blank"><img src="https://img.shields.io/badge/aemendes.com-4169E1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://twitter.com/Alexand76952838" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="Twitter / X" /></a>
-    <a href="https://github.com/aemendes" target="_blank"><img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" /></a>
-  </p>
-
-  <h3>✨ Fun Facts</h3>
-  <ul>
-    <li>My Master's thesis forecast Bitcoin's trend from the sentiment of tweets.</li>
-    <li>I once trained an ML model to recognise metal detector sounds.</li>
-    <li>I write my own Crossplane providers so my homelab runs entirely on GitOps.</li>
-    <li>I have a soft spot for on-chain data, MEV and anything crypto.</li>
-  </ul>
-
-  <h3>🧑‍💻 About Me</h3>
-  <p>
-    I'm a software developer based in Porto, Portugal, working in the betting industry. I started in frontend and moved into
-    backend, where I build real-time, event-driven systems with Java, Spring Boot, Apache Flink, Kafka, gRPC and Protobuf.
-  </p>
-  <p>
-    I hold a Master's in Artificial Intelligence from ISEP. Outside work I build platform tooling with Go, Kubernetes and
-    Crossplane, full-stack apps with TypeScript and Next.js, and on-chain analytics in Rust.
-  </p>
-</div>
-<br clear="left" />
+<img src="assets/footer.svg" alt="End of transmission" width="100%" />
